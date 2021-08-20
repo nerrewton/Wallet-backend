@@ -9,11 +9,6 @@
     "lint": "prettier -c . && eslint",
     "test": "jest"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run format && npm run lint && npm run test"
-    }
-  },
   "keywords": [
     "wallet"
   ],

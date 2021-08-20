@@ -1,3 +1,3 @@
-test("Ficty test", ()=> {
- expect(1).toBe(1)
-})
+test("Ficty test", () => {
+  expect(1).toBe(1);
+});
